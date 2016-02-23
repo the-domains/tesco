@@ -1,0 +1,28 @@
+name: tesco
+favicon: null
+layout_spectrum: 0.7606097436510026
+typography_spectrum: 0.5667174735572189
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7299611594062299
+  lightness: 0.5334707347210497
+  saturation: 0.16423567617312074
+  rhythmicContrast: 0.12987674353644252
+purpose: []
